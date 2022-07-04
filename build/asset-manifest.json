@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdc69889.chunk.css",
+    "main.js": "/static/js/main.b0344d5c.chunk.js",
+    "main.js.map": "/static/js/main.b0344d5c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5689262d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5689262d.js.map",
+    "static/js/2.bf1a5bd6.chunk.js": "/static/js/2.bf1a5bd6.chunk.js",
+    "static/js/2.bf1a5bd6.chunk.js.map": "/static/js/2.bf1a5bd6.chunk.js.map",
+    "static/js/3.f22eacfa.chunk.js": "/static/js/3.f22eacfa.chunk.js",
+    "static/js/3.f22eacfa.chunk.js.map": "/static/js/3.f22eacfa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fdc69889.chunk.css.map": "/static/css/main.fdc69889.chunk.css.map",
+    "static/js/2.bf1a5bd6.chunk.js.LICENSE.txt": "/static/js/2.bf1a5bd6.chunk.js.LICENSE.txt",
+    "static/media/background.ca6bed2a.jpg": "/static/media/background.ca6bed2a.jpg",
+    "static/media/background10.749ff5fc.jpg": "/static/media/background10.749ff5fc.jpg",
+    "static/media/background11.0294f3e3.jpg": "/static/media/background11.0294f3e3.jpg",
+    "static/media/background12.a8cf3b29.jpg": "/static/media/background12.a8cf3b29.jpg",
+    "static/media/background13.78914841.jpg": "/static/media/background13.78914841.jpg",
+    "static/media/background14.cfcde92f.jpg": "/static/media/background14.cfcde92f.jpg",
+    "static/media/background15.bbd51e7c.jpg": "/static/media/background15.bbd51e7c.jpg",
+    "static/media/background2.27cb1816.jpg": "/static/media/background2.27cb1816.jpg",
+    "static/media/background3.9d20e059.jpg": "/static/media/background3.9d20e059.jpg",
+    "static/media/background4.423460f8.jpg": "/static/media/background4.423460f8.jpg",
+    "static/media/background5.f6fe167c.jpg": "/static/media/background5.f6fe167c.jpg",
+    "static/media/background6.39f8d3b0.jpg": "/static/media/background6.39f8d3b0.jpg",
+    "static/media/background7.039cd59b.jpg": "/static/media/background7.039cd59b.jpg",
+    "static/media/background8.f0c3fbd4.jpg": "/static/media/background8.f0c3fbd4.jpg",
+    "static/media/background9.ea6caf5c.jpg": "/static/media/background9.ea6caf5c.jpg",
+    "static/media/威男去背.9832e3db.png": "/static/media/威男去背.9832e3db.png",
+    "static/media/忠大去背.741235d9.png": "/static/media/忠大去背.741235d9.png",
+    "static/media/憲文去背.d09ce839.png": "/static/media/憲文去背.d09ce839.png",
+    "static/media/邦軒去背.310e350e.png": "/static/media/邦軒去背.310e350e.png",
+    "static/media/阿嗚去背.fdfc65a4.png": "/static/media/阿嗚去背.fdfc65a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5689262d.js",
+    "static/js/2.bf1a5bd6.chunk.js",
+    "static/css/main.fdc69889.chunk.css",
+    "static/js/main.b0344d5c.chunk.js"
+  ]
+}
